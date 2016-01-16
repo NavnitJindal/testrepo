@@ -4,6 +4,7 @@ public class AnotherClass {
 	
 	void testMethod()
 	{
+	System.out.println("Inside testMethod");
 	System.out.print("Hello AnotherClass");
 	}
 
