@@ -8,6 +8,7 @@ public class MyTest {
 		
 		AnotherClass anotherClass = new AnotherClass();
 		anotherClass.testMethod();
+		anotherClass.display("Have a good day");
 	}
 
 }
